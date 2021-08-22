@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="btn_takePhoto">TAKE A PHOTO</string>
+    <string name="floatingAction_btn" />
+</resources>
